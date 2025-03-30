@@ -1,0 +1,1 @@
+Add `3D_Seismic_Cube.sgy` file in the `data` folder to run the code for seismic related visualization and processing.

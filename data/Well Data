@@ -1,0 +1,36 @@
+# Petrel well head
+# Unit in X and Y direction: m
+# Unit in depth: m
+VERSION 1
+BEGIN HEADER
+Name
+UWI
+Well symbol
+Surface X
+Surface Y
+Drilling structure
+Well datum name
+Well datum value
+Well datum description
+TD (MD)
+Cost
+Spud date
+Simulation name
+Simulation export date
+Operator
+TWT auto
+Uncertainty ground level
+Uncertainty radius
+Uncertainty standard deviation factor
+Bottom hole X
+Bottom hole Y
+FLOAT,Ambient temperature
+FLOAT,Heat transfer coefficient
+END HEADER
+"WELL_1" "WELL_1" 0 2190531.85 710610.00 "" "" 111.0  "" 10.0   -999   "NULL" "" "NULL" "" -999   0.00   0.00   1.00   2190531.85 710610.00 -999   -999   
+"WELL_2" "WELL_2" 0 2186822.81 709620.00 "" "" 107.0  "" 10.0   -999   "NULL" "" "NULL" "" -999   0.00   0.00   1.00   2186822.81 709620.00 -999   -999   
+"WELL_3" "WELL_3" 0 2186972.76 706760.00 "" "" 104.0  "" 10.0   -999   "NULL" "" "NULL" "" -999   0.00   0.00   1.00   2186972.76 706760.00 -999   -999   
+"WELL_4" "WELL_4" 0 2187971.91 706760.00 "" "" 110.0  "" 10.0   -999   "NULL" "" "NULL" "" -999   0.00   0.00   1.00   2187971.91 706760.00 -999   -999   
+"WELL_5" "WELL_5" 0 2187769.48 707640.00 "" "" 109.0  "" 10.0   -999   "NULL" "" "NULL" "" -999   0.00   0.00   1.00   2187769.48 707640.00 -999   -999   
+"WELL_6" "WELL_6" 0 2190771.59 706485.00 "" "" 125.0  "" 10.0   -999   "NULL" "" "NULL" "" -999   0.00   0.00   1.00   2190771.59 706485.00 -999   -999   
+
